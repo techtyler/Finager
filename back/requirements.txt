@@ -1,0 +1,24 @@
+Flask==0.12.2
+
+Flask-Jsonpify==1.5.0
+Flask-RESTful==0.3.6
+Flask-SQLAlchemy==2.3.2
+Flask-User==0.6.19
+Flask-Script==2.0.6
+Flask-Login==0.4.1
+Flask-Migrate
+Flask-CORS
+Flask-DebugToolbar
+Flask-Swagger
+jwt
+Flask-BCrypt
+
+# Automated tests
+pytest==3.0.5
+pytest-cov==2.4.0
+
+
+# Development tools
+# Fabric3==1.13.1.post1
+# tox==2.7.0
+Flask-Testing==0.6.2
