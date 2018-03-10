@@ -7,7 +7,6 @@ Flask-User==0.6.19
 Flask-Script==2.0.6
 Flask-Login==0.4.1
 Flask-Migrate
-Flask-CORS
 Flask-DebugToolbar
 Flask-Swagger
 jwt

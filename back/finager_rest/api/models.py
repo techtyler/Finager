@@ -4,7 +4,6 @@ from flask import current_app
 
 from finager_rest import db, bcrypt
 
-
 class User(db.Model):
     __tablename__ = "users"
     id = db.Column(db.Integer, primary_key=True, autoincrement=True)
